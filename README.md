@@ -16,7 +16,7 @@ game has only 2 example levels. <br>
 - Pygame<br>
 To start run Main.py
 
-<br><br>
+
 <b><header>Screenshots</header></b><br><br>
 <p align="center">
   <img src="https://github.com/treesakul/Buttom-Boss/blob/master/Screenshots/screenshot1.png" width="350" title="hover text"><br><br>
