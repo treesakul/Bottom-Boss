@@ -17,8 +17,13 @@ game has only 2 example levels. <br>
 To start run Main.py
 
 <br><br>
-<b><header>Screenshots</header></b><br>
-
+<b><header>Screenshots</header></b><br><br>
+<p align="center">
+  <img src="https://github.com/treesakul/Buttom-Boss/blob/master/screenshot1.png" width="350" title="hover text"><br><br>
+  <img src="https://github.com/treesakul/Buttom-Boss/blob/master/screenshot2.png" width="350" alt="accessibility text"><br><br>
+   <img src="https://github.com/treesakul/Buttom-Boss/blob/master/screenshot3.png" width="350" title="hover text"><br><br>
+  <img src="https://github.com/treesakul/Buttom-Boss/blob/master/screenshot4.png" width="350" alt="accessibility text"><br>
+</p>
 
 <br><br>
 <b><header>License</header></b><br>
